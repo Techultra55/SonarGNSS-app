@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">SonarGnss</string>
+    <string name="date_label">DATE : </string>
+    <string name="lat_label">Lat :</string>
+    <string name="lon_label">Lon :</string>
+    <string name="depth_label">Depth :</string>
+    <string name="altitude_label">Altitude :</string>
+    <string name="time_label">TIME : </string>
+    <string name="speed_label">Speed :</string>
+    <string name="unit_ms">m/s</string>
+    <string name="cog_label">COG ( ° )</string>
+    <string name="unit_m">M</string>
+    <string name="dash_placeholder">---</string>
+    <string name="empty_string" />
+    <string name="waiting_nmea">Waiting for NMEA…</string>
+    <string name="btn_start">Start</string>
+    <string name="connect_bluetooth">Connect BLUETOOTH</string>
+    <string name="rtk_fix">RTK FIX</string>
+    <string name="map_view">MAP VIEW</string>
+    <string name="echogram">ECHOGRAM</string>
+    <string name="split_view">SPLIT VIEW</string>
+    <string name="depth_title">DEPTH</string>
+    <string name="unit_m_lowercase">m</string>
+    <string name="alt_label">ALT: </string>
+    <string name="position_title">POSITION</string>
+    <string name="lat_label_alt">LAT: </string>
+    <string name="lon_label_alt">LON: </string>
+    <string name="date_label_alt">DATE: </string>
+    <string name="dynamics_title">DYNAMICS</string>
+    <string name="spd_label">SPD: </string>
+    <string name="cog_label_alt">COG: </string>
+    <string name="utc_label">UTC: </string>
+    <string name="nmea_raw_stream">NMEA RAW STREAM</string>
+    <string name="waiting_nmea_stream">Waiting for NMEA stream…</string>
+</resources>

@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme with Marine Dark styling -->
+    <style name="Theme.NewIteration" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/marine_primary</item>
+        <item name="colorPrimaryVariant">@color/marine_primary_variant</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/marine_accent</item>
+        <item name="colorSecondaryVariant">@color/teal_200</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">@color/marine_bg</item>
+        <item name="android:navigationBarColor">@color/marine_bg</item>
+        <item name="android:windowBackground">@color/marine_bg</item>
+    </style>
+    <color name="icon_tint">#E2E8F0</color>
+</resources>
